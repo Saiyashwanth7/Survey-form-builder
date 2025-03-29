@@ -52,7 +52,7 @@ survey-form-builder
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/survey-form-builder.git
+   git clone  https://github.com/Saiyashwanth7/Survey-form-builder.git
    ```
 2. Navigate to the backend directory and install the required packages:
    ```
